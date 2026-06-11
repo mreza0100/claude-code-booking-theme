@@ -2,6 +2,8 @@
 
 A Booking.com-inspired custom theme for [Claude Code](https://code.claude.com), the CLI coding agent. Blue-and-yellow brand energy: electric-blue spinner, golden-yellow text, neon-mint success, laser-cyan plan mode, hot-pink permissions — tuned to stay readable on a deep-navy `#00112b` canvas.
 
+![Booking theme in a live Claude Code session — a file write, a red/green diff, and a bash run](./preview.png)
+
 > Requires **Claude Code v2.1.118 or later** (custom theme support).
 
 ## Palette
