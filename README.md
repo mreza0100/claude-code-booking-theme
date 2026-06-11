@@ -30,7 +30,7 @@ Custom themes are JSON files in `~/.claude/themes/`. Claude Code watches that fo
 
 ```bash
 mkdir -p ~/.claude/themes && \
-  curl -fsSL https://raw.githubusercontent.com/mreza0100/claude-code-booking/main/booking.json \
+  curl -fsSL https://raw.githubusercontent.com/mreza0100/claude-code-booking-theme/main/booking.json \
   -o ~/.claude/themes/booking.json
 ```
 
